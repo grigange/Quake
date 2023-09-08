@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447155054612",
+    "project_id": "quake-47fe0",
+    "storage_bucket": "quake-47fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447155054612:android:6b55ac7cd616dc20f61f01",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447155054612-n1vlpf4iv0sh2kk1q1ebeod68thdoevv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhB_dEqe2pZ1fwAE5_tJ_kCltnCBqPa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447155054612-n1vlpf4iv0sh2kk1q1ebeod68thdoevv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

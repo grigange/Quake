@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="Theme.Material3.DynamicColors.Dark">
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">
+            @android:color/transparent
+        </item>
+
+        <!-- Optional: set to transparent if your app is drawing behind the status bar. -->
+        <item name="android:statusBarColor">
+            @android:color/transparent
+        </item>
+
+        <!-- Optional: set the status bar light and content dark. -->
+    </style>
+
+    <style name="Theme.MyApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="ThemeOverlay.MyApplication.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_900</item>
+        <item name="fullscreenTextColor">@color/light_blue_A400</item>
+    </style>
+</resources>
